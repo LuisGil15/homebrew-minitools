@@ -1,6 +1,6 @@
 cask "minitools" do
-  version "1.0.5"
-  sha256 "cf88a7c84f3201fa606df981ead7422bd27e0d2f6c93be6cff289d96eb2a15d0"
+  version "1.0.6"
+  sha256 "a3fda98b2c0f8e3a700058201d1740d8f37ce197b4b5682d180ddcc1f8fea86e"
 
   url "https://github.com/LuisGil15/MiniTools/releases/download/v#{version}/MiniTools-#{version}.dmg"
   name "MiniTools"
