@@ -4,7 +4,7 @@ cask "minitools" do
 
   url "https://github.com/LuisGil15/MiniTools/releases/download/v#{version}/MiniTools-#{version}.dmg"
   name "MiniTools"
-  desc "Dynamic island for macOS with timers, reminders, weather, and plugins"
+  desc "Dynamic island with timers, reminders, weather, and plugins"
   homepage "https://github.com/LuisGil15/MiniTools"
 
   livecheck do
